@@ -13,6 +13,10 @@
 
 This is a brute force version of a chess game created for simple practicing of logic in object oriented programming. The game's fundamental variable is the double 8x8 array that holds Piece objects. This is referenced throughout for checking moves and updating the display to match the array. Upon starting, you can then enter a move by typing "a2 a3" which will then update the display and prompt the second player to type a move. This continues until a checkmate occures, all while keeping score of the two players within the Player object and checking to make sure the moves are all legal by scanning the array.
 
+Game Example: 
+
+<img src="https://github.com/tatemouser/GameOfChess/assets/114375692/5aa811cb-6c85-436c-aa1d-fa1c0fe7de43" alt="Image" width="300" height="300">
+
 ## Features
 
 - Game Display
