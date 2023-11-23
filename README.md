@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Description
@@ -30,9 +29,6 @@ Traditional Eclipse project set up.
 ## Usage
 
 Project is initiated from the Index class which calls NewBoard once to set up the game display, from there the program is primarily ran in the class GameDisplay. Once here the code loops through lines 124-202 until there is a winner of the game. Between these lines each Piece object and Score object is kept track of and updated accordingly. Lastly the Movement object is referenced with the input of each loop through these lines to see whether the move is valid through check various logic conditions set prior.
-
-## License
-None.
 
 ## Contact
 tatesmouser@gmail.com
